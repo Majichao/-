@@ -42,12 +42,12 @@
 ### 安装依赖
 1. 克隆项目到本地：
     ```bash
-    git clone <项目仓库地址>
+    git clone <https://github.com/ma-jch/DL>
     cd <项目目录>
     ```
 2. 安装所需的 Python 包：
     ```bash
-    pip install torch torchvision
+    pip install -r requirements.txt
     ```
 
 ### 下载数据集
@@ -74,5 +74,5 @@
 - 如果内存不足，可以适当调整 `batch_size` 和 `num_workers` 参数。
 
 ## 联系方式
-如果有任何问题或建议，请联系 QQ[319367091]。
+如果有任何问题或建议，请联系 [XXXXXXXXXXX]。
 
