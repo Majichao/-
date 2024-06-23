@@ -42,7 +42,7 @@
 ### 安装依赖
 1. 克隆项目到本地：
     ```bash
-    git clone <https://github.com/ma-jch/DL>
+    git clone https://github.com/ma-jch/DL
     cd project
     ```
 2. 安装所需的 Python 包：
