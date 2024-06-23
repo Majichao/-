@@ -43,7 +43,7 @@
 1. 克隆项目到本地：
     ```bash
     git clone <https://github.com/ma-jch/DL>
-    cd <项目目录>
+    cd project
     ```
 2. 安装所需的 Python 包：
     ```bash
